@@ -1,0 +1,12 @@
+#BlueJ class context
+#Mon Aug 17 11:01:00 BRT 2026
+comment0.target=Cofrinho
+comment1.params=dono
+comment1.target=Cofrinho(Pessoa)
+comment2.target=Pessoa getDono()
+comment3.target=void deposita50c()
+comment4.target=void deposita25c()
+comment5.target=void deposita10c()
+comment6.target=double calculaTotal()
+comment7.target=java.lang.String informaTotal()
+numComments=8
